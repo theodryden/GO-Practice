@@ -1,0 +1,11 @@
+Challenge 1: Day of the Week
+
+Description:
+Write a program that prompts the user to enter a number between 1 and 7. 
+Use a switch statement to print the corresponding day of the week (1 for Sunday, 2 for Monday, etc.). 
+If the user enters a number outside this range, print an error message.
+
+Requirements:
+
+Use a switch statement to map numbers to days.
+Handle invalid input.

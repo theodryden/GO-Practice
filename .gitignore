@@ -1,0 +1,9 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore other specific files or folders
+path/to/ignored-file
+path/to/ignored-folder/

@@ -1,0 +1,14 @@
+Challenge 2: Simple Menu System
+
+Description:
+Write a program that displays a simple menu to the user with options to: 
+1) Print "Hello, World!", 
+2) Print the current date and time, 
+3) Exit. Use a for loop to repeatedly show the menu until the user chooses to exit. 
+Use a switch statement to handle menu options.
+
+Requirements:
+
+Use a for loop to display the menu repeatedly.
+Use a switch statement to handle menu choices.
+Use the time package to print the current date and time.

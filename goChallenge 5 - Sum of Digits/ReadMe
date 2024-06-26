@@ -1,0 +1,11 @@
+Challenge 3: Sum of Digits
+
+Description:
+Write a program that prompts the user to enter a positive integer. 
+Use a for loop to calculate the sum of its digits.
+Use a switch statement to handle cases where the user enters a non-positive integer.
+
+Requirements:
+
+Use a for loop to calculate the sum of digits.
+Use a switch statement to handle non-positive integer input.
